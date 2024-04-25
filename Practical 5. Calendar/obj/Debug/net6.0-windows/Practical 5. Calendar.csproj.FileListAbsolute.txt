@@ -64,3 +64,36 @@ C:\Users\xiaomi\Downloads\Practical-5-Calendar-WPF-main\Practical 5. Calendar\ob
 C:\Users\xiaomi\Downloads\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.pdb
 C:\Users\xiaomi\Downloads\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.genruntimeconfig.cache
 C:\Users\xiaomi\Downloads\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ref\Practical 5. Calendar.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Practical 5. Calendar.exe
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Practical 5. Calendar.deps.json
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Practical 5. Calendar.runtimeconfig.json
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Practical 5. Calendar.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Practical 5. Calendar.pdb
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ChoicePage.g.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ChoicePoint.g.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\DaysMonth.g.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar_MarkupCompile.cache
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar_MarkupCompile.lref
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ChoicePage.baml
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ChoicePoint.baml
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\DaysMonth.baml
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.g.resources
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.AssemblyInfo.cs
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.csproj.CopyComplete
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\refint\Practical 5. Calendar.dll
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.pdb
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\Practical 5. Calendar.genruntimeconfig.cache
+C:\Users\user\Desktop\Practical-5-Calendar-WPF-main\Practical 5. Calendar\obj\Debug\net6.0-windows\ref\Practical 5. Calendar.dll

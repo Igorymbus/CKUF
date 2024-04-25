@@ -195,19 +195,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xiaomi\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xiaomi\\Downloads\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\Practical 5. Calendar.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\Practical 5. Calendar.csproj",
       "projectName": "Practical 5. Calendar",
-      "projectPath": "C:\\Users\\xiaomi\\Downloads\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\Practical 5. Calendar.csproj",
-      "packagesPath": "C:\\Users\\xiaomi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xiaomi\\Downloads\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\Practical 5. Calendar.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Practical-5-Calendar-WPF-main\\Practical 5. Calendar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xiaomi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -261,7 +261,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
